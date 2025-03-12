@@ -6,7 +6,7 @@ Så bliv en del af vores nye Almen praksis diabetesnetværk! Sammen med Steno Di
 Netværket løber over et år, og I vil blive honoreret for jeres deltagelse.  
 Lyder det interessant? Kontakt os – vi ser frem til at høre fra jer! 
 
-## Almen praksis skal involveres i udviklingsarbejdet
+**Almen praksis skal involveres i udviklingsarbejdet**
 
 SDCA arbejder for, at alle med eller risiko for diabetes kan leve et godt liv. For at realisere denne vision er et tæt samarbejde med sundhedsområdets aktører afgørende, og her har almen praksis en unik ekspertise. SDCA ønsker derfor at involvere jer i det kommende, tværsektorielle udviklingsarbejde på type 2-diabetesområdet. Almen praksis diabetesnetværk etableres i sommeren 2025 og vil bestå af 5-7 almen praksis fra Region Midtjylland. 
 
@@ -26,7 +26,7 @@ Både læger og praksispersonale, der arbejder med patienter med type 2-diabetes
 
 Hvis det bliver relevant at udvikle og afprøve konkrete indsatser i jeres praksis, vil der blive udbetalt særskilt honorar for dette. 
 
-**Ansøgning og opstart**
+## Ansøgning og opstart
 
 Både enkelt- og flermandspraksis samt regionsklinikker opfordres til at ansøge. Ansøgning til at medvirke i netværket sker ved at sende en mail til SDCA på (ap.netvaerk@auh.rm.dk).  
 I første omgang bedes I kun sende oplysninger om praksis-navn og adresse, samt kort beskrivelse af praksis (antal ansatte, antal patienter og lign.) 
@@ -43,14 +43,12 @@ Netværket drives af SDCA, som er ansvarlig for at planlægge og afholde møder 
 
 ## Kontakt 
 
-### Kirsten Christensen 
+**Kirsten Christensen** 
 
 ::: {layout-ncol=2}
 
 - tidligere praktiserende læge og nuværende praksiskonsulent ved SDCA 
 
-- tlf 
-
-- mail 
+- kichis@onerm.dk
 
 :::
