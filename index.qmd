@@ -43,6 +43,14 @@ Netværket drives af SDCA, som er ansvarlig for at planlægge og afholde møder 
 
 ## Kontakt 
 
-###Kirsten Christensen 
+### Kirsten Christensen 
+
+::: {layout-ncol=2}
 
 - tidligere praktiserende læge og nuværende praksiskonsulent ved SDCA 
+
+- tlf 
+
+- mail 
+
+:::
