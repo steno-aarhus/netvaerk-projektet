@@ -30,7 +30,7 @@ Hvis det bliver relevant at udvikle og afprøve konkrete indsatser i jeres praks
 
 ## Ansøgning og opstart
 
-Både enkelt- og flermandspraksis samt regionsklinikker opfordres til at ansøge. Ansøgning til at medvirke i netværket sker ved at sende en mail til SDCA på (ap.netvaerk@auh.rm.dk).  
+Både enkelt- og flermandspraksis samt regionsklinikker opfordres til at ansøge. Ansøgning til at medvirke i netværket sker ved at sende en mail til SDCA på **(ap.netvaerk@auh.rm.dk)**.  
 I første omgang bedes I kun sende oplysninger om praksis-navn og adresse, samt kort beskrivelse af praksis (antal ansatte, antal patienter og lign.) 
 
 Deadline for ansøgning er 25. april 2025.  
@@ -49,8 +49,8 @@ Netværket drives af SDCA, som er ansvarlig for at planlægge og afholde møder 
 
 ::: {layout-ncol=2}
 
-- tidligere praktiserende læge og nuværende praksiskonsulent ved SDCA 
+- Tidligere praktiserende læge og nuværende praksiskonsulent ved SDCA 
 
-- kichis@onerm.dk
+- **kichis@onerm.dk**
 
 :::
